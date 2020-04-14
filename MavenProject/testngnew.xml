@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="6" name="Suite" parallel="classes" verbose="5">
+  <test thread-count="6" name="Test" parallel="classes">
+    <classes>
+      <class name="week5.day1.CreateLead"/>
+      <class name="week5.day1.DeleteLead"/>
+      <class name="week5.day1.DuplicateLead"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
