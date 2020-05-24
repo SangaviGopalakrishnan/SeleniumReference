@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="48687" started-at="2020-04-11T09:17:31 IST" finished-at="2020-04-11T09:18:20 IST">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:steps.ProjectSpecificMethods@729b1e]" name="runScenario" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Test" duration-ms="48687" started-at="2020-04-11T09:17:31 IST" finished-at="2020-04-11T09:18:20 IST">
+      <class name="steps.ProjectSpecificMethods">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:steps.ProjectSpecificMethods@729b1e]" name="setUpClass" is-config="true" duration-ms="216" started-at="2020-04-11T09:17:31 IST" finished-at="2020-04-11T09:17:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="loginApp()[pri:0, instance:steps.ProjectSpecificMethods@729b1e]" name="loginApp" is-config="true" duration-ms="9234" started-at="2020-04-11T09:17:32 IST" finished-at="2020-04-11T09:17:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp -->
+        <test-method status="PASS" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:steps.ProjectSpecificMethods@729b1e]" name="runScenario" duration-ms="14435" started-at="2020-04-11T09:17:41 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-04-11T09:17:55 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["[TC01] Positive flow for create leads"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["CreateLeads in leaftaps application [TET-1002]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:steps.ProjectSpecificMethods@729b1e]" name="logout" is-config="true" duration-ms="2353" started-at="2020-04-11T09:17:55 IST" finished-at="2020-04-11T09:17:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="loginApp()[pri:0, instance:steps.ProjectSpecificMethods@729b1e]" name="loginApp" is-config="true" duration-ms="6393" started-at="2020-04-11T09:17:58 IST" finished-at="2020-04-11T09:18:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp -->
+        <test-method status="PASS" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:steps.ProjectSpecificMethods@729b1e]" name="runScenario" duration-ms="13461" started-at="2020-04-11T09:18:04 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-04-11T09:18:17 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["[TC01] Positive flow for create leads"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["CreateLeads in leaftaps application [TET-1002]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:steps.ProjectSpecificMethods@729b1e]" name="logout" is-config="true" duration-ms="2385" started-at="2020-04-11T09:18:17 IST" finished-at="2020-04-11T09:18:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:steps.ProjectSpecificMethods@729b1e]" name="tearDownClass" is-config="true" duration-ms="16" started-at="2020-04-11T09:18:20 IST" finished-at="2020-04-11T09:18:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- steps.ProjectSpecificMethods -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
