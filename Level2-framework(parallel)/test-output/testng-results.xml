@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="74236" started-at="2020-04-04T15:35:11 IST" finished-at="2020-04-04T15:36:25 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="74236" started-at="2020-04-04T15:35:11 IST" finished-at="2020-04-04T15:36:25 IST">
+      <class name="framework.testcases.Login">
+        <test-method status="PASS" signature="getExcelName()[pri:0, instance:framework.testcases.Login@17e1b0c]" name="getExcelName" is-config="true" duration-ms="1" started-at="2020-04-04T15:35:11 IST" finished-at="2020-04-04T15:35:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getExcelName -->
+        <test-method status="PASS" signature="BeforeMeth(java.lang.String)[pri:0, instance:framework.testcases.Login@17e1b0c]" name="BeforeMeth" is-config="true" duration-ms="24362" started-at="2020-04-04T15:35:12 IST" finished-at="2020-04-04T15:35:36 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://leaftaps.com/opentaps/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMeth -->
+        <test-method status="PASS" signature="executeCreateLead(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:framework.testcases.Login@17e1b0c]" name="executeCreateLead" duration-ms="17155" started-at="2020-04-04T15:35:36 IST" data-provider="getData" finished-at="2020-04-04T15:35:54 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DemoCSR]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TestLeaf]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sarath]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Ms]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeCreateLead -->
+        <test-method status="PASS" signature="AfterMeth()[pri:0, instance:framework.testcases.Login@17e1b0c]" name="AfterMeth" is-config="true" duration-ms="2207" started-at="2020-04-04T15:35:54 IST" finished-at="2020-04-04T15:35:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMeth -->
+        <test-method status="PASS" signature="BeforeMeth(java.lang.String)[pri:0, instance:framework.testcases.Login@17e1b0c]" name="BeforeMeth" is-config="true" duration-ms="11400" started-at="2020-04-04T15:35:56 IST" finished-at="2020-04-04T15:36:07 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://leaftaps.com/opentaps/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMeth -->
+        <test-method status="PASS" signature="executeCreateLead(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:framework.testcases.Login@17e1b0c]" name="executeCreateLead" duration-ms="15932" started-at="2020-04-04T15:36:07 IST" data-provider="getData" finished-at="2020-04-04T15:36:23 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DemoCSR]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TestLeaf]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Raju]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ewrwe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeCreateLead -->
+        <test-method status="PASS" signature="AfterMeth()[pri:0, instance:framework.testcases.Login@17e1b0c]" name="AfterMeth" is-config="true" duration-ms="2315" started-at="2020-04-04T15:36:23 IST" finished-at="2020-04-04T15:36:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMeth -->
+      </class> <!-- framework.testcases.Login -->
+      <class name="framework.testcases.CreateLead">
+        <test-method status="PASS" signature="getExcelName()[pri:0, instance:framework.testcases.CreateLead@181e022]" name="getExcelName" is-config="true" duration-ms="17" started-at="2020-04-04T15:35:11 IST" finished-at="2020-04-04T15:35:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getExcelName -->
+        <test-method status="PASS" signature="BeforeMeth(java.lang.String)[pri:0, instance:framework.testcases.CreateLead@181e022]" name="BeforeMeth" is-config="true" duration-ms="21390" started-at="2020-04-04T15:35:12 IST" finished-at="2020-04-04T15:35:33 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://leaftaps.com/opentaps/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMeth -->
+        <test-method status="PASS" signature="executeCreateLead(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:framework.testcases.CreateLead@181e022]" name="executeCreateLead" duration-ms="16043" started-at="2020-04-04T15:35:33 IST" data-provider="getData" finished-at="2020-04-04T15:35:49 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DemoCSR]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TestLeaf]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sarath]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Ms]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeCreateLead -->
+        <test-method status="PASS" signature="AfterMeth()[pri:0, instance:framework.testcases.CreateLead@181e022]" name="AfterMeth" is-config="true" duration-ms="275" started-at="2020-04-04T15:35:49 IST" finished-at="2020-04-04T15:35:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMeth -->
+        <test-method status="PASS" signature="BeforeMeth(java.lang.String)[pri:0, instance:framework.testcases.CreateLead@181e022]" name="BeforeMeth" is-config="true" duration-ms="7889" started-at="2020-04-04T15:35:50 IST" finished-at="2020-04-04T15:35:58 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://leaftaps.com/opentaps/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMeth -->
+        <test-method status="PASS" signature="executeCreateLead(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:framework.testcases.CreateLead@181e022]" name="executeCreateLead" duration-ms="17920" started-at="2020-04-04T15:35:58 IST" data-provider="getData" finished-at="2020-04-04T15:36:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DemoCSR]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TestLeaf]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Raju]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ewrwe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeCreateLead -->
+        <test-method status="PASS" signature="AfterMeth()[pri:0, instance:framework.testcases.CreateLead@181e022]" name="AfterMeth" is-config="true" duration-ms="2326" started-at="2020-04-04T15:36:16 IST" finished-at="2020-04-04T15:36:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMeth -->
+      </class> <!-- framework.testcases.CreateLead -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
